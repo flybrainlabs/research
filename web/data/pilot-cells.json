@@ -1,0 +1,42 @@
+{
+  "schema": "flypow-pilot-cells-v1",
+  "registry_sha256": "e04acf725b481fa69e56ad8f3ca7bd32d1467b959f475618543a649f07e1d112",
+  "cells": [
+    {
+      "body_id": "16789",
+      "model_index": 6222,
+      "side": "R",
+      "geometry": "/assets/data/pilot-cells/16789.json",
+      "geometry_sha256": "9c58731676e8cc23239abfa0ed0a446db0dcb80c3d715c448612019ef4c11e8a",
+      "thumbnail": "/assets/data/pilot-cells/16789.svg",
+      "thumbnail_sha256": "d6669e961687810e4aa77730a55f4a1948cbc59b8504dc7e18e62672393eb5f9"
+    },
+    {
+      "body_id": "16961",
+      "model_index": 6375,
+      "side": "L",
+      "geometry": "/assets/data/pilot-cells/16961.json",
+      "geometry_sha256": "cfd9427951dc1afd34e6b284a0c287019e57c16dea394490ca5082703058382e",
+      "thumbnail": "/assets/data/pilot-cells/16961.svg",
+      "thumbnail_sha256": "80be1d45dd4ab8745313cecbd9a9355f046355f1a04528b725729ca1a551ebac"
+    },
+    {
+      "body_id": "18708",
+      "model_index": 7938,
+      "side": "R",
+      "geometry": "/assets/data/pilot-cells/18708.json",
+      "geometry_sha256": "1f9fca7d7fdcd5a4d1d36370fd9b0fee0973c69741ddada50cd1d4a986c5ea51",
+      "thumbnail": "/assets/data/pilot-cells/18708.svg",
+      "thumbnail_sha256": "c575441050bf195a7114e9d47e6b07eeeb08608ef37838f83d050fe725661c26"
+    },
+    {
+      "body_id": "87973",
+      "model_index": 66689,
+      "side": "L",
+      "geometry": "/assets/data/pilot-cells/87973.json",
+      "geometry_sha256": "eb1c0ef4a47537c96dafbb10fb6480667083e58a989968fc5996d7d94594eec4",
+      "thumbnail": "/assets/data/pilot-cells/87973.svg",
+      "thumbnail_sha256": "4b322a2888c0865b22c1a83e1c71afdd666881109f5b1f6ca0a1672a107106e3"
+    }
+  ]
+}

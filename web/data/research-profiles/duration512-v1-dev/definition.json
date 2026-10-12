@@ -1,0 +1,314 @@
+{
+  "graph_root": "6c42f6ff8e2198aca17a765acae0475b490abb0169d615e32b71c976f563deb4",
+  "model_root": "7326a0eadad0095312048927c610272dbd5279f9a906462915bea79f3bef19c1",
+  "neuron_count": 165122,
+  "observe_start": 0,
+  "parameter_version": "lif-point-v0-dev",
+  "parameters": {
+    "background_current": 10,
+    "background_probability_u16": 256,
+    "leak_divisor": 8,
+    "membrane_limit": 1000000,
+    "refractory_steps": 2,
+    "reset": 0,
+    "synaptic_delay_steps": 1,
+    "synaptic_unit": 1,
+    "threshold": 100
+  },
+  "payment": false,
+  "profile_id": "duration512-v1-dev",
+  "question": "Sensitivity to rectangular stimulus timing, strength, duration and public seed; late response and persistent cascades in a longer observation window",
+  "registry_root": "e04acf725b481fa69e56ad8f3ca7bd32d1467b959f475618543a649f07e1d112",
+  "repeats": 4,
+  "resources": {
+    "max_archive_bytes": 134217728,
+    "max_trace_bytes": 16777216,
+    "max_trace_cells": 64,
+    "max_trace_edges": 256
+  },
+  "rewards": false,
+  "schema": "flypow-duration-profile-v1",
+  "source_root": "1d4f79ddd39d277a7cd1cbb6427685e7e484da5de9344b968dbde7eb36e855cb",
+  "steps": 512,
+  "stimuli": [
+    {
+      "current": 50,
+      "end_step": 1,
+      "start_step": 0
+    },
+    {
+      "current": 100,
+      "end_step": 1,
+      "start_step": 0
+    },
+    {
+      "current": 150,
+      "end_step": 1,
+      "start_step": 0
+    },
+    {
+      "current": 200,
+      "end_step": 1,
+      "start_step": 0
+    },
+    {
+      "current": 50,
+      "end_step": 16,
+      "start_step": 0
+    },
+    {
+      "current": 100,
+      "end_step": 16,
+      "start_step": 0
+    },
+    {
+      "current": 150,
+      "end_step": 16,
+      "start_step": 0
+    },
+    {
+      "current": 200,
+      "end_step": 16,
+      "start_step": 0
+    },
+    {
+      "current": 50,
+      "end_step": 64,
+      "start_step": 0
+    },
+    {
+      "current": 100,
+      "end_step": 64,
+      "start_step": 0
+    },
+    {
+      "current": 150,
+      "end_step": 64,
+      "start_step": 0
+    },
+    {
+      "current": 200,
+      "end_step": 64,
+      "start_step": 0
+    },
+    {
+      "current": 50,
+      "end_step": 128,
+      "start_step": 0
+    },
+    {
+      "current": 100,
+      "end_step": 128,
+      "start_step": 0
+    },
+    {
+      "current": 150,
+      "end_step": 128,
+      "start_step": 0
+    },
+    {
+      "current": 200,
+      "end_step": 128,
+      "start_step": 0
+    },
+    {
+      "current": 50,
+      "end_step": 65,
+      "start_step": 64
+    },
+    {
+      "current": 100,
+      "end_step": 65,
+      "start_step": 64
+    },
+    {
+      "current": 150,
+      "end_step": 65,
+      "start_step": 64
+    },
+    {
+      "current": 200,
+      "end_step": 65,
+      "start_step": 64
+    },
+    {
+      "current": 50,
+      "end_step": 80,
+      "start_step": 64
+    },
+    {
+      "current": 100,
+      "end_step": 80,
+      "start_step": 64
+    },
+    {
+      "current": 150,
+      "end_step": 80,
+      "start_step": 64
+    },
+    {
+      "current": 200,
+      "end_step": 80,
+      "start_step": 64
+    },
+    {
+      "current": 50,
+      "end_step": 128,
+      "start_step": 64
+    },
+    {
+      "current": 100,
+      "end_step": 128,
+      "start_step": 64
+    },
+    {
+      "current": 150,
+      "end_step": 128,
+      "start_step": 64
+    },
+    {
+      "current": 200,
+      "end_step": 128,
+      "start_step": 64
+    },
+    {
+      "current": 50,
+      "end_step": 192,
+      "start_step": 64
+    },
+    {
+      "current": 100,
+      "end_step": 192,
+      "start_step": 64
+    },
+    {
+      "current": 150,
+      "end_step": 192,
+      "start_step": 64
+    },
+    {
+      "current": 200,
+      "end_step": 192,
+      "start_step": 64
+    },
+    {
+      "current": 50,
+      "end_step": 257,
+      "start_step": 256
+    },
+    {
+      "current": 100,
+      "end_step": 257,
+      "start_step": 256
+    },
+    {
+      "current": 150,
+      "end_step": 257,
+      "start_step": 256
+    },
+    {
+      "current": 200,
+      "end_step": 257,
+      "start_step": 256
+    },
+    {
+      "current": 50,
+      "end_step": 272,
+      "start_step": 256
+    },
+    {
+      "current": 100,
+      "end_step": 272,
+      "start_step": 256
+    },
+    {
+      "current": 150,
+      "end_step": 272,
+      "start_step": 256
+    },
+    {
+      "current": 200,
+      "end_step": 272,
+      "start_step": 256
+    },
+    {
+      "current": 50,
+      "end_step": 320,
+      "start_step": 256
+    },
+    {
+      "current": 100,
+      "end_step": 320,
+      "start_step": 256
+    },
+    {
+      "current": 150,
+      "end_step": 320,
+      "start_step": 256
+    },
+    {
+      "current": 200,
+      "end_step": 320,
+      "start_step": 256
+    },
+    {
+      "current": 50,
+      "end_step": 384,
+      "start_step": 256
+    },
+    {
+      "current": 100,
+      "end_step": 384,
+      "start_step": 256
+    },
+    {
+      "current": 150,
+      "end_step": 384,
+      "start_step": 256
+    },
+    {
+      "current": 200,
+      "end_step": 384,
+      "start_step": 256
+    },
+    {
+      "current": 50,
+      "end_step": 512,
+      "start_step": 511
+    },
+    {
+      "current": 100,
+      "end_step": 512,
+      "start_step": 511
+    },
+    {
+      "current": 150,
+      "end_step": 512,
+      "start_step": 511
+    },
+    {
+      "current": 200,
+      "end_step": 512,
+      "start_step": 511
+    }
+  ],
+  "targets": [
+    {
+      "body_id": 16789,
+      "model_index": 6222
+    },
+    {
+      "body_id": 16961,
+      "model_index": 6375
+    },
+    {
+      "body_id": 18708,
+      "model_index": 7938
+    },
+    {
+      "body_id": 87973,
+      "model_index": 66689
+    }
+  ],
+  "time_step_us": 1000
+}

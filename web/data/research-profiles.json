@@ -1,0 +1,48 @@
+{
+  "activation": "128/256 enabled after full-model native/WASM/reference and browser acceptance; 512 remains a benchmark candidate.",
+  "activation_evidence": {
+    "data/prepared/optimization-benchmarks/report.json": "5532385f284e2d68dfcb257635607d71fbab562f06466a971126660059b850f8",
+    "data/prepared/optimization-browser-prepared-final/report.json": "233e2ca168db4c63976839d6e409f65a681fdb94508fe14b17582dc8414d81a8",
+    "data/prepared/optimization-reference-report.json": "16d06d85723ee0bd232a2c13f09f7853a6d4016e2ebf9ed55e3913fc87e54073"
+  },
+  "default_profile": "duration128-v1-dev",
+  "profiles": [
+    {
+      "catalog_path": "/assets/data/task-catalog-dev.json",
+      "config_path": "/assets/data/research-config.json",
+      "config_sha256": "187e2901d8b37b95b35b3b4bbf11cd77fc2c9305cf7edbcc605a248e3c9a981c",
+      "enabled": true,
+      "id": "quick32",
+      "label": "Quick experiment \u00b7 32 steps",
+      "steps": 32
+    },
+    {
+      "catalog_path": "/assets/data/research-profiles/duration128-v1-dev/catalog.json",
+      "config_path": "/assets/data/research-profiles/duration128-v1-dev/config.json",
+      "config_sha256": "3d0a97341963d666322a9571265f54673c51e009c64ab91d79536fd2a830c62e",
+      "enabled": true,
+      "id": "duration128-v1-dev",
+      "label": "Duration research \u00b7 128 steps",
+      "steps": 128
+    },
+    {
+      "catalog_path": "/assets/data/research-profiles/duration256-v1-dev/catalog.json",
+      "config_path": "/assets/data/research-profiles/duration256-v1-dev/config.json",
+      "config_sha256": "68e9958f2eed0f09a33c75870b09feb4db947fc0598e763e67e0a34aeec6243f",
+      "enabled": true,
+      "id": "duration256-v1-dev",
+      "label": "Duration research \u00b7 256 steps",
+      "steps": 256
+    },
+    {
+      "catalog_path": "/assets/data/research-profiles/duration512-v1-dev/catalog.json",
+      "config_path": "/assets/data/research-profiles/duration512-v1-dev/config.json",
+      "config_sha256": "e965f360aaa1aced177933ab47b82623da3b489010eabb4f28b21a8e0b6728bb",
+      "enabled": false,
+      "id": "duration512-v1-dev",
+      "label": "Duration research \u00b7 512 steps",
+      "steps": 512
+    }
+  ],
+  "schema": "flypow-research-profiles-v1"
+}

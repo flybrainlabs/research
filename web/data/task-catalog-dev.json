@@ -1,0 +1,689 @@
+{
+  "state": "UNCALIBRATED_DEV_ONLY_NO_PAYMENT",
+  "campaign": {
+    "campaign_id": [
+      36,
+      108,
+      225,
+      253,
+      121,
+      136,
+      203,
+      179,
+      243,
+      155,
+      66,
+      42,
+      26,
+      89,
+      169,
+      0,
+      231,
+      243,
+      22,
+      138,
+      62,
+      151,
+      209,
+      92,
+      162,
+      11,
+      104,
+      71,
+      1,
+      0,
+      195,
+      4
+    ],
+    "source_root": [
+      29,
+      79,
+      121,
+      221,
+      211,
+      157,
+      39,
+      122,
+      124,
+      209,
+      203,
+      182,
+      66,
+      118,
+      133,
+      231,
+      228,
+      132,
+      218,
+      93,
+      233,
+      52,
+      75,
+      150,
+      141,
+      189,
+      231,
+      235,
+      54,
+      232,
+      85,
+      203
+    ],
+    "registry_root": [
+      224,
+      74,
+      207,
+      114,
+      91,
+      72,
+      31,
+      166,
+      158,
+      86,
+      173,
+      143,
+      60,
+      167,
+      189,
+      50,
+      209,
+      70,
+      123,
+      149,
+      159,
+      71,
+      86,
+      24,
+      84,
+      58,
+      100,
+      159,
+      7,
+      225,
+      209,
+      18
+    ],
+    "graph_root": [
+      108,
+      66,
+      246,
+      255,
+      142,
+      33,
+      152,
+      172,
+      161,
+      122,
+      118,
+      90,
+      202,
+      224,
+      71,
+      91,
+      73,
+      10,
+      187,
+      1,
+      105,
+      214,
+      21,
+      227,
+      43,
+      113,
+      201,
+      118,
+      245,
+      99,
+      222,
+      180
+    ],
+    "model_root": [
+      115,
+      38,
+      160,
+      234,
+      218,
+      208,
+      9,
+      83,
+      18,
+      4,
+      137,
+      39,
+      198,
+      16,
+      39,
+      45,
+      189,
+      82,
+      121,
+      249,
+      169,
+      6,
+      70,
+      41,
+      21,
+      190,
+      167,
+      159,
+      59,
+      239,
+      25,
+      193
+    ],
+    "experiment_root": [
+      22,
+      226,
+      143,
+      29,
+      82,
+      90,
+      213,
+      152,
+      110,
+      72,
+      47,
+      214,
+      2,
+      198,
+      41,
+      174,
+      185,
+      16,
+      47,
+      41,
+      10,
+      246,
+      11,
+      207,
+      132,
+      159,
+      160,
+      148,
+      115,
+      85,
+      221,
+      97
+    ],
+    "public_seed": [
+      69,
+      140,
+      88,
+      127,
+      246,
+      165,
+      221,
+      59,
+      232,
+      124,
+      34,
+      164,
+      148,
+      163,
+      98,
+      197,
+      78,
+      225,
+      240,
+      18,
+      201,
+      205,
+      56,
+      164,
+      219,
+      96,
+      210,
+      81,
+      48,
+      22,
+      166,
+      159
+    ],
+    "model_neuron_count": 165122,
+    "simulation_steps": 32,
+    "time_step_us": 1000,
+    "targets": [
+      {
+        "body_id": 16789,
+        "model_index": 6222
+      },
+      {
+        "body_id": 16961,
+        "model_index": 6375
+      },
+      {
+        "body_id": 18708,
+        "model_index": 7938
+      },
+      {
+        "body_id": 87973,
+        "model_index": 66689
+      }
+    ],
+    "stimuli": [
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 200
+      },
+      {
+        "start_step": 0,
+        "end_step": 2,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 2,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 2,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 2,
+        "current": 200
+      },
+      {
+        "start_step": 0,
+        "end_step": 4,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 4,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 4,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 4,
+        "current": 200
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 200
+      },
+      {
+        "start_step": 4,
+        "end_step": 5,
+        "current": 50
+      },
+      {
+        "start_step": 4,
+        "end_step": 5,
+        "current": 100
+      },
+      {
+        "start_step": 4,
+        "end_step": 5,
+        "current": 150
+      },
+      {
+        "start_step": 4,
+        "end_step": 5,
+        "current": 200
+      },
+      {
+        "start_step": 4,
+        "end_step": 6,
+        "current": 50
+      },
+      {
+        "start_step": 4,
+        "end_step": 6,
+        "current": 100
+      },
+      {
+        "start_step": 4,
+        "end_step": 6,
+        "current": 150
+      },
+      {
+        "start_step": 4,
+        "end_step": 6,
+        "current": 200
+      },
+      {
+        "start_step": 4,
+        "end_step": 8,
+        "current": 50
+      },
+      {
+        "start_step": 4,
+        "end_step": 8,
+        "current": 100
+      },
+      {
+        "start_step": 4,
+        "end_step": 8,
+        "current": 150
+      },
+      {
+        "start_step": 4,
+        "end_step": 8,
+        "current": 200
+      },
+      {
+        "start_step": 4,
+        "end_step": 12,
+        "current": 50
+      },
+      {
+        "start_step": 4,
+        "end_step": 12,
+        "current": 100
+      },
+      {
+        "start_step": 4,
+        "end_step": 12,
+        "current": 150
+      },
+      {
+        "start_step": 4,
+        "end_step": 12,
+        "current": 200
+      },
+      {
+        "start_step": 8,
+        "end_step": 9,
+        "current": 50
+      },
+      {
+        "start_step": 8,
+        "end_step": 9,
+        "current": 100
+      },
+      {
+        "start_step": 8,
+        "end_step": 9,
+        "current": 150
+      },
+      {
+        "start_step": 8,
+        "end_step": 9,
+        "current": 200
+      },
+      {
+        "start_step": 8,
+        "end_step": 10,
+        "current": 50
+      },
+      {
+        "start_step": 8,
+        "end_step": 10,
+        "current": 100
+      },
+      {
+        "start_step": 8,
+        "end_step": 10,
+        "current": 150
+      },
+      {
+        "start_step": 8,
+        "end_step": 10,
+        "current": 200
+      },
+      {
+        "start_step": 8,
+        "end_step": 12,
+        "current": 50
+      },
+      {
+        "start_step": 8,
+        "end_step": 12,
+        "current": 100
+      },
+      {
+        "start_step": 8,
+        "end_step": 12,
+        "current": 150
+      },
+      {
+        "start_step": 8,
+        "end_step": 12,
+        "current": 200
+      },
+      {
+        "start_step": 8,
+        "end_step": 16,
+        "current": 50
+      },
+      {
+        "start_step": 8,
+        "end_step": 16,
+        "current": 100
+      },
+      {
+        "start_step": 8,
+        "end_step": 16,
+        "current": 150
+      },
+      {
+        "start_step": 8,
+        "end_step": 16,
+        "current": 200
+      },
+      {
+        "start_step": 12,
+        "end_step": 13,
+        "current": 50
+      },
+      {
+        "start_step": 12,
+        "end_step": 13,
+        "current": 100
+      },
+      {
+        "start_step": 12,
+        "end_step": 13,
+        "current": 150
+      },
+      {
+        "start_step": 12,
+        "end_step": 13,
+        "current": 200
+      },
+      {
+        "start_step": 12,
+        "end_step": 14,
+        "current": 50
+      },
+      {
+        "start_step": 12,
+        "end_step": 14,
+        "current": 100
+      },
+      {
+        "start_step": 12,
+        "end_step": 14,
+        "current": 150
+      },
+      {
+        "start_step": 12,
+        "end_step": 14,
+        "current": 200
+      },
+      {
+        "start_step": 12,
+        "end_step": 16,
+        "current": 50
+      },
+      {
+        "start_step": 12,
+        "end_step": 16,
+        "current": 100
+      },
+      {
+        "start_step": 12,
+        "end_step": 16,
+        "current": 150
+      },
+      {
+        "start_step": 12,
+        "end_step": 16,
+        "current": 200
+      },
+      {
+        "start_step": 12,
+        "end_step": 20,
+        "current": 50
+      },
+      {
+        "start_step": 12,
+        "end_step": 20,
+        "current": 100
+      },
+      {
+        "start_step": 12,
+        "end_step": 20,
+        "current": 150
+      },
+      {
+        "start_step": 12,
+        "end_step": 20,
+        "current": 200
+      }
+    ],
+    "repeats": 4
+  },
+  "graph_data_sha256": [
+    108,
+    66,
+    246,
+    255,
+    142,
+    33,
+    152,
+    172,
+    161,
+    122,
+    118,
+    90,
+    202,
+    224,
+    71,
+    91,
+    73,
+    10,
+    187,
+    1,
+    105,
+    214,
+    21,
+    227,
+    43,
+    113,
+    201,
+    118,
+    245,
+    99,
+    222,
+    180
+  ],
+  "model_data_sha256": [
+    62,
+    178,
+    38,
+    34,
+    152,
+    195,
+    116,
+    196,
+    127,
+    203,
+    209,
+    60,
+    22,
+    190,
+    197,
+    59,
+    194,
+    15,
+    251,
+    131,
+    125,
+    166,
+    196,
+    98,
+    118,
+    234,
+    18,
+    155,
+    212,
+    72,
+    135,
+    79
+  ],
+  "task_manifest_root": [
+    77,
+    175,
+    13,
+    250,
+    157,
+    172,
+    197,
+    90,
+    51,
+    118,
+    149,
+    196,
+    74,
+    37,
+    89,
+    67,
+    55,
+    20,
+    181,
+    50,
+    204,
+    230,
+    144,
+    186,
+    158,
+    22,
+    43,
+    45,
+    176,
+    98,
+    211,
+    108
+  ]
+}

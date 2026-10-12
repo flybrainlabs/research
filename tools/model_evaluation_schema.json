@@ -1,0 +1,66 @@
+{
+  "schema": "flybrain-observation-import-v1",
+  "source": {
+    "url": "required-public-observation-source",
+    "license": "required",
+    "version": "required",
+    "sha256": "required-file-checksum",
+    "authorization": "required-observation-data-license-review"
+  },
+  "model": {
+    "graphRoot": "required",
+    "modelRoot": "required",
+    "parameterProfileHash": "required"
+  },
+  "predictionRule": "native-full-events-target-net-v1",
+  "rows": [
+    {
+      "id": "unique-record",
+      "split": "calibration-or-heldout",
+      "input": {
+        "stimulatedBodyId": "canonical-body-id",
+        "startStep": 0,
+        "endStep": 1,
+        "current": 25
+      },
+      "seedHex": "16-lowercase-hex",
+      "observed": 0,
+      "predicted": 0,
+      "baseline": 0,
+      "metric": "explicit-compatible-observable",
+      "predictionFileSha256": "required"
+    }
+  ],
+  "sensitivityReports": [],
+  "externalObservationVerified": false,
+  "observationMapping": {
+    "format": "csv",
+    "fields": {
+      "id": "id",
+      "observed": "observed",
+      "observable": "observable",
+      "unit": "unit",
+      "splitGroup": "split_group"
+    }
+  },
+  "taskId": "required-frozen-GoalId",
+  "evaluationSpec": {
+    "schema": "flybrain-evaluation-spec-v1",
+    "observable": "target-net-spikes",
+    "observationUnit": "spikes",
+    "predictionUnit": "spikes",
+    "predictionRule": "native-full-events-target-net-v1",
+    "baselineRule": "zero",
+    "windowIndex": 0,
+    "split": {
+      "unique-record": "calibration"
+    },
+    "model": {
+      "graphRoot": "required",
+      "modelRoot": "required",
+      "parameterProfileHash": "required"
+    },
+    "conditionMapping": "reviewed frozen source-to-model conditions and target/window scope required"
+  },
+  "evaluationSpecSha256": "SHA-256 of sorted compact UTF-8 evaluationSpec JSON"
+}

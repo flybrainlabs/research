@@ -1,0 +1,943 @@
+{
+  "state": "UNCALIBRATED_DEV_ONLY_NO_PAYMENT",
+  "campaign": {
+    "campaign_id": [
+      2,
+      78,
+      126,
+      39,
+      146,
+      88,
+      153,
+      8,
+      239,
+      219,
+      30,
+      43,
+      199,
+      82,
+      227,
+      11,
+      234,
+      218,
+      129,
+      36,
+      167,
+      205,
+      92,
+      203,
+      111,
+      185,
+      79,
+      228,
+      118,
+      225,
+      153,
+      128
+    ],
+    "source_root": [
+      29,
+      79,
+      121,
+      221,
+      211,
+      157,
+      39,
+      122,
+      124,
+      209,
+      203,
+      182,
+      66,
+      118,
+      133,
+      231,
+      228,
+      132,
+      218,
+      93,
+      233,
+      52,
+      75,
+      150,
+      141,
+      189,
+      231,
+      235,
+      54,
+      232,
+      85,
+      203
+    ],
+    "registry_root": [
+      224,
+      74,
+      207,
+      114,
+      91,
+      72,
+      31,
+      166,
+      158,
+      86,
+      173,
+      143,
+      60,
+      167,
+      189,
+      50,
+      209,
+      70,
+      123,
+      149,
+      159,
+      71,
+      86,
+      24,
+      84,
+      58,
+      100,
+      159,
+      7,
+      225,
+      209,
+      18
+    ],
+    "graph_root": [
+      108,
+      66,
+      246,
+      255,
+      142,
+      33,
+      152,
+      172,
+      161,
+      122,
+      118,
+      90,
+      202,
+      224,
+      71,
+      91,
+      73,
+      10,
+      187,
+      1,
+      105,
+      214,
+      21,
+      227,
+      43,
+      113,
+      201,
+      118,
+      245,
+      99,
+      222,
+      180
+    ],
+    "model_root": [
+      115,
+      38,
+      160,
+      234,
+      218,
+      208,
+      9,
+      83,
+      18,
+      4,
+      137,
+      39,
+      198,
+      16,
+      39,
+      45,
+      189,
+      82,
+      121,
+      249,
+      169,
+      6,
+      70,
+      41,
+      21,
+      190,
+      167,
+      159,
+      59,
+      239,
+      25,
+      193
+    ],
+    "experiment_root": [
+      1,
+      223,
+      69,
+      106,
+      59,
+      204,
+      179,
+      36,
+      18,
+      96,
+      166,
+      178,
+      235,
+      202,
+      245,
+      29,
+      50,
+      44,
+      67,
+      14,
+      104,
+      46,
+      20,
+      158,
+      188,
+      179,
+      101,
+      248,
+      135,
+      173,
+      16,
+      127
+    ],
+    "public_seed": [
+      105,
+      159,
+      1,
+      182,
+      4,
+      172,
+      207,
+      44,
+      72,
+      201,
+      88,
+      24,
+      22,
+      29,
+      238,
+      75,
+      119,
+      180,
+      223,
+      75,
+      158,
+      124,
+      68,
+      89,
+      10,
+      127,
+      177,
+      97,
+      230,
+      254,
+      39,
+      107
+    ],
+    "model_neuron_count": 165122,
+    "simulation_steps": 256,
+    "time_step_us": 1000,
+    "targets": [
+      {
+        "body_id": 16789,
+        "model_index": 6222
+      },
+      {
+        "body_id": 16961,
+        "model_index": 6375
+      },
+      {
+        "body_id": 18708,
+        "model_index": 7938
+      },
+      {
+        "body_id": 87973,
+        "model_index": 66689
+      }
+    ],
+    "stimuli": [
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 1,
+        "current": 200
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 8,
+        "current": 200
+      },
+      {
+        "start_step": 0,
+        "end_step": 32,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 32,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 32,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 32,
+        "current": 200
+      },
+      {
+        "start_step": 0,
+        "end_step": 64,
+        "current": 50
+      },
+      {
+        "start_step": 0,
+        "end_step": 64,
+        "current": 100
+      },
+      {
+        "start_step": 0,
+        "end_step": 64,
+        "current": 150
+      },
+      {
+        "start_step": 0,
+        "end_step": 64,
+        "current": 200
+      },
+      {
+        "start_step": 32,
+        "end_step": 33,
+        "current": 50
+      },
+      {
+        "start_step": 32,
+        "end_step": 33,
+        "current": 100
+      },
+      {
+        "start_step": 32,
+        "end_step": 33,
+        "current": 150
+      },
+      {
+        "start_step": 32,
+        "end_step": 33,
+        "current": 200
+      },
+      {
+        "start_step": 32,
+        "end_step": 40,
+        "current": 50
+      },
+      {
+        "start_step": 32,
+        "end_step": 40,
+        "current": 100
+      },
+      {
+        "start_step": 32,
+        "end_step": 40,
+        "current": 150
+      },
+      {
+        "start_step": 32,
+        "end_step": 40,
+        "current": 200
+      },
+      {
+        "start_step": 32,
+        "end_step": 64,
+        "current": 50
+      },
+      {
+        "start_step": 32,
+        "end_step": 64,
+        "current": 100
+      },
+      {
+        "start_step": 32,
+        "end_step": 64,
+        "current": 150
+      },
+      {
+        "start_step": 32,
+        "end_step": 64,
+        "current": 200
+      },
+      {
+        "start_step": 32,
+        "end_step": 96,
+        "current": 50
+      },
+      {
+        "start_step": 32,
+        "end_step": 96,
+        "current": 100
+      },
+      {
+        "start_step": 32,
+        "end_step": 96,
+        "current": 150
+      },
+      {
+        "start_step": 32,
+        "end_step": 96,
+        "current": 200
+      },
+      {
+        "start_step": 128,
+        "end_step": 129,
+        "current": 50
+      },
+      {
+        "start_step": 128,
+        "end_step": 129,
+        "current": 100
+      },
+      {
+        "start_step": 128,
+        "end_step": 129,
+        "current": 150
+      },
+      {
+        "start_step": 128,
+        "end_step": 129,
+        "current": 200
+      },
+      {
+        "start_step": 128,
+        "end_step": 136,
+        "current": 50
+      },
+      {
+        "start_step": 128,
+        "end_step": 136,
+        "current": 100
+      },
+      {
+        "start_step": 128,
+        "end_step": 136,
+        "current": 150
+      },
+      {
+        "start_step": 128,
+        "end_step": 136,
+        "current": 200
+      },
+      {
+        "start_step": 128,
+        "end_step": 160,
+        "current": 50
+      },
+      {
+        "start_step": 128,
+        "end_step": 160,
+        "current": 100
+      },
+      {
+        "start_step": 128,
+        "end_step": 160,
+        "current": 150
+      },
+      {
+        "start_step": 128,
+        "end_step": 160,
+        "current": 200
+      },
+      {
+        "start_step": 128,
+        "end_step": 192,
+        "current": 50
+      },
+      {
+        "start_step": 128,
+        "end_step": 192,
+        "current": 100
+      },
+      {
+        "start_step": 128,
+        "end_step": 192,
+        "current": 150
+      },
+      {
+        "start_step": 128,
+        "end_step": 192,
+        "current": 200
+      },
+      {
+        "start_step": 255,
+        "end_step": 256,
+        "current": 50
+      },
+      {
+        "start_step": 255,
+        "end_step": 256,
+        "current": 100
+      },
+      {
+        "start_step": 255,
+        "end_step": 256,
+        "current": 150
+      },
+      {
+        "start_step": 255,
+        "end_step": 256,
+        "current": 200
+      }
+    ],
+    "repeats": 4
+  },
+  "graph_data_sha256": [
+    108,
+    66,
+    246,
+    255,
+    142,
+    33,
+    152,
+    172,
+    161,
+    122,
+    118,
+    90,
+    202,
+    224,
+    71,
+    91,
+    73,
+    10,
+    187,
+    1,
+    105,
+    214,
+    21,
+    227,
+    43,
+    113,
+    201,
+    118,
+    245,
+    99,
+    222,
+    180
+  ],
+  "model_data_sha256": [
+    62,
+    178,
+    38,
+    34,
+    152,
+    195,
+    116,
+    196,
+    127,
+    203,
+    209,
+    60,
+    22,
+    190,
+    197,
+    59,
+    194,
+    15,
+    251,
+    131,
+    125,
+    166,
+    196,
+    98,
+    118,
+    234,
+    18,
+    155,
+    212,
+    72,
+    135,
+    79
+  ],
+  "task_manifest_root": [
+    82,
+    31,
+    87,
+    44,
+    109,
+    103,
+    226,
+    147,
+    254,
+    47,
+    164,
+    125,
+    233,
+    112,
+    165,
+    80,
+    5,
+    195,
+    120,
+    202,
+    253,
+    74,
+    13,
+    135,
+    135,
+    64,
+    51,
+    77,
+    227,
+    1,
+    97,
+    77
+  ],
+  "profile_definition": {
+    "graph_root": "6c42f6ff8e2198aca17a765acae0475b490abb0169d615e32b71c976f563deb4",
+    "model_root": "7326a0eadad0095312048927c610272dbd5279f9a906462915bea79f3bef19c1",
+    "neuron_count": 165122,
+    "observe_start": 0,
+    "parameter_version": "lif-point-v0-dev",
+    "parameters": {
+      "background_current": 10,
+      "background_probability_u16": 256,
+      "leak_divisor": 8,
+      "membrane_limit": 1000000,
+      "refractory_steps": 2,
+      "reset": 0,
+      "synaptic_delay_steps": 1,
+      "synaptic_unit": 1,
+      "threshold": 100
+    },
+    "payment": false,
+    "profile_id": "duration256-v1-dev",
+    "question": "Sensitivity to rectangular stimulus timing, strength, duration and public seed; late response and persistent cascades in a longer observation window",
+    "registry_root": "e04acf725b481fa69e56ad8f3ca7bd32d1467b959f475618543a649f07e1d112",
+    "repeats": 4,
+    "resources": {
+      "max_archive_bytes": 134217728,
+      "max_trace_bytes": 16777216,
+      "max_trace_cells": 64,
+      "max_trace_edges": 256
+    },
+    "rewards": false,
+    "schema": "flypow-duration-profile-v1",
+    "source_root": "1d4f79ddd39d277a7cd1cbb6427685e7e484da5de9344b968dbde7eb36e855cb",
+    "steps": 256,
+    "stimuli": [
+      {
+        "current": 50,
+        "end_step": 1,
+        "start_step": 0
+      },
+      {
+        "current": 100,
+        "end_step": 1,
+        "start_step": 0
+      },
+      {
+        "current": 150,
+        "end_step": 1,
+        "start_step": 0
+      },
+      {
+        "current": 200,
+        "end_step": 1,
+        "start_step": 0
+      },
+      {
+        "current": 50,
+        "end_step": 8,
+        "start_step": 0
+      },
+      {
+        "current": 100,
+        "end_step": 8,
+        "start_step": 0
+      },
+      {
+        "current": 150,
+        "end_step": 8,
+        "start_step": 0
+      },
+      {
+        "current": 200,
+        "end_step": 8,
+        "start_step": 0
+      },
+      {
+        "current": 50,
+        "end_step": 32,
+        "start_step": 0
+      },
+      {
+        "current": 100,
+        "end_step": 32,
+        "start_step": 0
+      },
+      {
+        "current": 150,
+        "end_step": 32,
+        "start_step": 0
+      },
+      {
+        "current": 200,
+        "end_step": 32,
+        "start_step": 0
+      },
+      {
+        "current": 50,
+        "end_step": 64,
+        "start_step": 0
+      },
+      {
+        "current": 100,
+        "end_step": 64,
+        "start_step": 0
+      },
+      {
+        "current": 150,
+        "end_step": 64,
+        "start_step": 0
+      },
+      {
+        "current": 200,
+        "end_step": 64,
+        "start_step": 0
+      },
+      {
+        "current": 50,
+        "end_step": 33,
+        "start_step": 32
+      },
+      {
+        "current": 100,
+        "end_step": 33,
+        "start_step": 32
+      },
+      {
+        "current": 150,
+        "end_step": 33,
+        "start_step": 32
+      },
+      {
+        "current": 200,
+        "end_step": 33,
+        "start_step": 32
+      },
+      {
+        "current": 50,
+        "end_step": 40,
+        "start_step": 32
+      },
+      {
+        "current": 100,
+        "end_step": 40,
+        "start_step": 32
+      },
+      {
+        "current": 150,
+        "end_step": 40,
+        "start_step": 32
+      },
+      {
+        "current": 200,
+        "end_step": 40,
+        "start_step": 32
+      },
+      {
+        "current": 50,
+        "end_step": 64,
+        "start_step": 32
+      },
+      {
+        "current": 100,
+        "end_step": 64,
+        "start_step": 32
+      },
+      {
+        "current": 150,
+        "end_step": 64,
+        "start_step": 32
+      },
+      {
+        "current": 200,
+        "end_step": 64,
+        "start_step": 32
+      },
+      {
+        "current": 50,
+        "end_step": 96,
+        "start_step": 32
+      },
+      {
+        "current": 100,
+        "end_step": 96,
+        "start_step": 32
+      },
+      {
+        "current": 150,
+        "end_step": 96,
+        "start_step": 32
+      },
+      {
+        "current": 200,
+        "end_step": 96,
+        "start_step": 32
+      },
+      {
+        "current": 50,
+        "end_step": 129,
+        "start_step": 128
+      },
+      {
+        "current": 100,
+        "end_step": 129,
+        "start_step": 128
+      },
+      {
+        "current": 150,
+        "end_step": 129,
+        "start_step": 128
+      },
+      {
+        "current": 200,
+        "end_step": 129,
+        "start_step": 128
+      },
+      {
+        "current": 50,
+        "end_step": 136,
+        "start_step": 128
+      },
+      {
+        "current": 100,
+        "end_step": 136,
+        "start_step": 128
+      },
+      {
+        "current": 150,
+        "end_step": 136,
+        "start_step": 128
+      },
+      {
+        "current": 200,
+        "end_step": 136,
+        "start_step": 128
+      },
+      {
+        "current": 50,
+        "end_step": 160,
+        "start_step": 128
+      },
+      {
+        "current": 100,
+        "end_step": 160,
+        "start_step": 128
+      },
+      {
+        "current": 150,
+        "end_step": 160,
+        "start_step": 128
+      },
+      {
+        "current": 200,
+        "end_step": 160,
+        "start_step": 128
+      },
+      {
+        "current": 50,
+        "end_step": 192,
+        "start_step": 128
+      },
+      {
+        "current": 100,
+        "end_step": 192,
+        "start_step": 128
+      },
+      {
+        "current": 150,
+        "end_step": 192,
+        "start_step": 128
+      },
+      {
+        "current": 200,
+        "end_step": 192,
+        "start_step": 128
+      },
+      {
+        "current": 50,
+        "end_step": 256,
+        "start_step": 255
+      },
+      {
+        "current": 100,
+        "end_step": 256,
+        "start_step": 255
+      },
+      {
+        "current": 150,
+        "end_step": 256,
+        "start_step": 255
+      },
+      {
+        "current": 200,
+        "end_step": 256,
+        "start_step": 255
+      }
+    ],
+    "targets": [
+      {
+        "body_id": 16789,
+        "model_index": 6222
+      },
+      {
+        "body_id": 16961,
+        "model_index": 6375
+      },
+      {
+        "body_id": 18708,
+        "model_index": 7938
+      },
+      {
+        "body_id": 87973,
+        "model_index": 66689
+      }
+    ],
+    "time_step_us": 1000
+  }
+}

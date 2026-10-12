@@ -1,0 +1,28 @@
+{
+  "state": "UNCALIBRATED_DEV_ONLY",
+  "campaign": "aipg10-local-pilot-v0",
+  "task_catalog_sha256": "4eb3dc2e20d12307b9769aaafa52c8a8a39cde5e0e02c4522cfbd9038e2fd8c0",
+  "neuron_count": 165122,
+  "directed_connection_count": 25563197,
+  "graph_bytes": 207147588,
+  "graph_sha256": "6c42f6ff8e2198aca17a765acae0475b490abb0169d615e32b71c976f563deb4",
+  "model_bytes": 660532,
+  "model_sha256": "3eb2262298c374c47fcbd13c16bec53bc20ffb837da6c46276ea129bd448874f",
+  "model_root_sha256": "7326a0eadad0095312048927c610272dbd5279f9a906462915bea79f3bef19c1",
+  "target_body_ids": [
+    16789,
+    16961,
+    18708,
+    87973
+  ],
+  "steps": 32,
+  "time_step_us": 1000,
+  "stimulus_start": 4,
+  "stimulus_end": 12,
+  "stimulus_current": 200,
+  "local_test_seed_hex": "4c4f43414c5f7630",
+  "allow_wallet": false,
+  "allow_payment": false,
+  "allow_rewards": false,
+  "registry_sha256": "e04acf725b481fa69e56ad8f3ca7bd32d1467b959f475618543a649f07e1d112"
+}
