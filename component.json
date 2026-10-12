@@ -3,6 +3,7 @@
   "repository": "research",
   "owner": "flybrainlabs",
   "workspaceFiles": {
+    "docs/wallet-mining-v3-preregistration.json": "docs/wallet-mining-v3-preregistration.json",
     "tests/e2e_v2_equivalence.py": "tests/e2e_v2_equivalence.py",
     "tests/test_connectome_coverage.py": "tests/test_connectome_coverage.py",
     "tests/test_model_evaluation.py": "tests/test_model_evaluation.py",
@@ -15,6 +16,7 @@
     "tools/calibrate_live_goals_v3.py": "tools/calibrate_live_goals_v3.py",
     "tools/calibrate_product_goals.py": "tools/calibrate_product_goals.py",
     "tools/calibrate_target_v2.py": "tools/calibrate_target_v2.py",
+    "tools/calibrate_wallet_goals_v3.py": "tools/calibrate_wallet_goals_v3.py",
     "tools/evaluate_model.py": "tools/evaluate_model.py",
     "tools/fetch_official_ranges.py": "tools/fetch_official_ranges.py",
     "tools/generate_research_profiles.py": "tools/generate_research_profiles.py",
@@ -316,6 +318,14 @@
     "web/data/target-mining-v2/product-group-9-20261011/calibration.json": "web/data/target-mining-v2/product-group-9-20261011/calibration.json",
     "web/data/target-mining-v2/product-group-9-20261011/goal.json": "web/data/target-mining-v2/product-group-9-20261011/goal.json",
     "web/data/target-mining-v2/product-supply-20261011.json": "web/data/target-mining-v2/product-supply-20261011.json",
+    "web/data/target-mining-v2/wallet-v3-group-1-20261012/calibration.json": "web/data/target-mining-v2/wallet-v3-group-1-20261012/calibration.json",
+    "web/data/target-mining-v2/wallet-v3-group-1-20261012/goal.json": "web/data/target-mining-v2/wallet-v3-group-1-20261012/goal.json",
+    "web/data/target-mining-v2/wallet-v3-group-2-20261012/calibration.json": "web/data/target-mining-v2/wallet-v3-group-2-20261012/calibration.json",
+    "web/data/target-mining-v2/wallet-v3-group-2-20261012/goal.json": "web/data/target-mining-v2/wallet-v3-group-2-20261012/goal.json",
+    "web/data/target-mining-v2/wallet-v3-group-3-20261012/calibration.json": "web/data/target-mining-v2/wallet-v3-group-3-20261012/calibration.json",
+    "web/data/target-mining-v2/wallet-v3-group-3-20261012/goal.json": "web/data/target-mining-v2/wallet-v3-group-3-20261012/goal.json",
+    "web/data/target-mining-v2/wallet-v3-group-4-20261012/calibration.json": "web/data/target-mining-v2/wallet-v3-group-4-20261012/calibration.json",
+    "web/data/target-mining-v2/wallet-v3-group-4-20261012/goal.json": "web/data/target-mining-v2/wallet-v3-group-4-20261012/goal.json",
     "web/data/task-catalog-dev.json": "web/data/task-catalog-dev.json"
   },
   "project": "flybrainlabs"
