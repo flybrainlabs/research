@@ -1,7 +1,7 @@
 {
   "schema": "flybrain-component-v1",
   "repository": "research",
-  "owner": "flybrainwork",
+  "owner": "flybrainlabs",
   "workspaceFiles": {
     "tests/e2e_v2_equivalence.py": "tests/e2e_v2_equivalence.py",
     "tests/test_connectome_coverage.py": "tests/test_connectome_coverage.py",
@@ -317,5 +317,6 @@
     "web/data/target-mining-v2/product-group-9-20261011/goal.json": "web/data/target-mining-v2/product-group-9-20261011/goal.json",
     "web/data/target-mining-v2/product-supply-20261011.json": "web/data/target-mining-v2/product-supply-20261011.json",
     "web/data/task-catalog-dev.json": "web/data/task-catalog-dev.json"
-  }
+  },
+  "project": "flybrainlabs"
 }
