@@ -88,3 +88,21 @@ verification. Public receipts are in the contracts repository under
 archives remain outside source repositories. The two-unit acceptance budget is
 complete. Future paid work requires a new prospectively frozen finite plan.
 Actual extension-wallet and physical-device confirmation remain separate gates.
+
+## V4 task reserve calibration
+
+`tools/calibrate_factory_reserve_v4.py` prospectively selects new disjoint
+downstream readouts outside the complete historical and registered V4 inventory.
+Run it from an assembled workspace with NumPy, the retained full native model,
+and its verified event cache:
+
+```sh
+python tools/calibrate_factory_reserve_v4.py --historical-inventory /private/history.json --output /private/reserve-batch --groups 16
+```
+
+The output is an unregistered reserve with frozen preregistration and independent
+evaluation of complete-model events. It never signs, registers tasks, allocates
+FBW, or claims biological validation. Existing simulation kernels are reused
+only when all simulation inputs match. Include registered and previously
+reserved scientific identities in each following inventory. A completed batch
+is retained and cannot be silently replaced.

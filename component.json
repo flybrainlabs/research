@@ -13,6 +13,7 @@
     "tools/build_comparable_family_v3.py": "tools/build_comparable_family_v3.py",
     "tools/build_product_goals.py": "tools/build_product_goals.py",
     "tools/build_public_result.py": "tools/build_public_result.py",
+    "tools/calibrate_factory_reserve_v4.py": "tools/calibrate_factory_reserve_v4.py",
     "tools/calibrate_live_goals_v3.py": "tools/calibrate_live_goals_v3.py",
     "tools/calibrate_product_goals.py": "tools/calibrate_product_goals.py",
     "tools/calibrate_target_v2.py": "tools/calibrate_target_v2.py",
