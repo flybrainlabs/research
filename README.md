@@ -106,3 +106,11 @@ FBW, or claims biological validation. Existing simulation kernels are reused
 only when all simulation inputs match. Include registered and previously
 reserved scientific identities in each following inventory. A completed batch
 is retained and cannot be silently replaced.
+
+## Exact event execution and scientific round fixtures
+
+`tools/scientific_fixture_v5.mjs` creates an explicitly synthetic six-cell cyclic
+fixture for native/WASM, evidence and settlement acceptance. It is not connectome
+data or biological validation. The retained 165,122-cell model was separately
+measured on sparse and dense inputs. See the
+[V5 specification and measured limits](https://github.com/flybrainlabs/docs/blob/feat/scientific-mining-20261020/docs/SCIENTIFIC_MINING_V5.md).

@@ -327,7 +327,8 @@
     "web/data/target-mining-v2/wallet-v3-group-3-20261012/goal.json": "web/data/target-mining-v2/wallet-v3-group-3-20261012/goal.json",
     "web/data/target-mining-v2/wallet-v3-group-4-20261012/calibration.json": "web/data/target-mining-v2/wallet-v3-group-4-20261012/calibration.json",
     "web/data/target-mining-v2/wallet-v3-group-4-20261012/goal.json": "web/data/target-mining-v2/wallet-v3-group-4-20261012/goal.json",
-    "web/data/task-catalog-dev.json": "web/data/task-catalog-dev.json"
+    "web/data/task-catalog-dev.json": "web/data/task-catalog-dev.json",
+    "tools/scientific_fixture_v5.mjs": "tools/scientific_fixture_v5.mjs"
   },
   "project": "flybrainlabs"
 }
