@@ -114,3 +114,17 @@ fixture for native/WASM, evidence and settlement acceptance. It is not connectom
 data or biological validation. The retained 165,122-cell model was separately
 measured on sparse and dense inputs. See the
 [V5 specification and measured limits](https://github.com/flybrainlabs/docs/blob/feat/scientific-mining-20261020/docs/SCIENTIFIC_MINING_V5.md).
+
+## Continuous V4 mining candidate
+
+Cooperative complete-kernel calibration checkpoints preserving preregistration and scientific rules. The feature branch is `feat/continuous-mining-20261021`.
+
+Run from the assembled workspace with the existing pinned dependencies:
+
+```sh
+python3 tests/calibration_resume_v4.py --help
+```
+
+See `docs/CONTINUOUS_MINING_V4_20261021.md` and the infrastructure
+`docs/CONTINUOUS_MINING_V4_20261021_ACCEPTANCE.json` for evidence boundaries.
+Source publication does not establish live acceptance or activate the service.
